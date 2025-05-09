@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 0.2,
-          "width": 0.2
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "badge_template.kicad_pro",
+    "filename": "hacking-badge_template.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -576,8 +576,8 @@
   },
   "sheets": [
     [
-      "7966b607-d2b7-4f48-a4fc-a876c3848eb5",
-      "루트"
+      "ede7393b-1658-4cd6-a1ba-dc5096bec480",
+      "Root"
     ]
   ],
   "text_variables": {}
